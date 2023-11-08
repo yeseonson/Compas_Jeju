@@ -1,4 +1,7 @@
 ## [(제주도) 소규모 단위의 정밀 도시 쇠퇴도 시각화 분석](https://compas.lh.or.kr/subj/past/info?subjNo=SBJ_2307_002)
+
+![](Screenshot.jpg)
+
 ### 프로젝트 요약
 도시 쇠퇴도 시각화 분석 결과 도출
 
